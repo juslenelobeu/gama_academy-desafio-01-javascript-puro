@@ -3,7 +3,7 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/juslenelobeu/gama_academy-desafio_01-landing_page?style=flat-square">
 </div>
 
-<img align="center" src="https://raw.githubusercontent.com/juslenelobeu/gama_academy-desafio_01-landing_page/master/assets/landingpage.png" width="100%">
+<img align="center" src="https://raw.githubusercontent.com/juslenelobeu/gama_academy-desafio_01-landing_page/master/assets/landingpage-thumb.png" width="100%">
 
 <h1 align="center">Landing page</h1>
 <p align="center">Landing page de um e-commerce para divulgação da black friday e captura de lead.</p>
@@ -13,9 +13,6 @@
 <p align="center">
  <a href="#sobre">Sobre</a> •
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#atividades">Atividades</a> • 
- <a href="#como-rodar">Como rodar</a> • 
- <a href="#melhorias">Melhorias</a> • 
  <a href="#autora">Autora</a>
 </p>
 <hr>
