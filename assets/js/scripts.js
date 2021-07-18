@@ -20,21 +20,20 @@ register.addEventListener("submit", (e) => {
 
   setTimeout(() => {
     content.innerHTML = `
-    <section class="headline">
-      <div class="headline__content">
-        <h1>Cadastro realizado com sucesso!</h1>
-        <h2>
-          <img src="./assets/images/icon-check.svg" alt="">
-          Obrigado <strong>${name}</strong> por se cadastrar!
-        </h2>
-        <h3>Fique ligado em seu e-mail que enviaremos ofertas arrasadoras!</h3>
-      </div>
-      <footer class="footer footer__thanks">
-        <span>Todos os dados contidos são fictícios e fazem parte da elaboração do desafio proposto no programa Hiring
-          Coders oferecido para pela Gama Academy.</span>
-        <span>By <a href="https://juslenelobeudesigner.com.br" target="_blank">Juslene Lobeu</a></span>
-      </footer>
+    <section class="thanks">
+      <h1>Cadastro realizado com sucesso!</h1>
+      <h2>
+        <img src="./assets/images/icon-check.svg" alt="">
+        Obrigado <strong>${name}</strong> por se cadastrar!
+      </h2>
+      <h3>Fique ligado em seu e-mail pois enviaremos ofertas arrasadoras!</h3>
     </section>
+    <footer class="footer">
+      <span>Todos os dados contidos são fictícios e fazem parte da elaboração do desafio proposto no programa
+        <strong>Hiring
+          Coders</strong> oferecido para pela <strong>Gama Academy</strong>.</span>
+      <span>By <a href="https://juslenelobeudesigner.com.br" target="_blank">Juslene Lobeu</a></span>
+    </footer>
     `;
   }, 2800);
 });

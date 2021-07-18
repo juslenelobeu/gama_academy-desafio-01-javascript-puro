@@ -1,9 +1,9 @@
 <div align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/juslenelobeu/gama_academy-desafio_01-landing_page?style=flat-square">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/juslenelobeu/gama_academy-desafio_01-landing_page?style=flat-square">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/juslenelobeu/gama_academy-desafio-01-javascript-puro?style=flat-square">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/juslenelobeu/gama_academy-desafio-01-javascript-puro?style=flat-square">
 </div>
 
-<img align="center" src="https://raw.githubusercontent.com/juslenelobeu/gama_academy-desafio_01-landing_page/master/assets/images/landingpage-thumb.png" width="100%">
+<img align="center" src="https://raw.githubusercontent.com/juslenelobeu/gama_academy-desafio-01-javascript-puro/master/assets/images/landingpage-thumb.png" width="100%">
 
 <h1 align="center">Landing page</h1>
 <p align="center">Landing page de um e-commerce para divulgação da black friday e captura de lead.</p>
@@ -17,7 +17,7 @@
 </p>
 <hr>
 
-<h3>Link do projeto: <a href="https://juslenelobeu.github.io/gama_academy-desafio_01-landing_page/" target="_blank">preview</a></h3>
+<h3>Link do projeto: <a href="https://juslenelobeu.github.io/gama_academy-desafio-01-javascript-puro/" target="_blank">preview</a></h3>
 
 <h2 id="sobre">🔖&ensp;Sobre Projeto</h2>
 <p>Primeiro desafio proposto pela Gama Academy durante o programa Hiring Coders, onde nossa missão seria criar uma landing page com a divulgação da black friday e formulário para captura de lead.</p>
